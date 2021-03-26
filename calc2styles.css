@@ -1,0 +1,48 @@
+body {
+  background: #2B372E;
+  font-family: 'Roboto', sans-serif;
+}
+table{
+  margin: 15% 40%;
+  background: #437059;
+  width: 300px;
+  height: 350px;
+  border-radius: 15px;
+}
+input{
+  position: relative;
+  left: 5px;
+  top: 5px;
+  border: 0;
+  background: #D6E0C1;
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+input:hover{
+  background: #B3BDA0;
+  transition: easy-out;
+}
+#screen{
+  width: 270px;
+  background: #ffffff;
+}
+.operator{
+  background: #454B6B;
+  margin-bottom: 15px;
+}
+.operator:hover{
+  background: #1B1D31;
+  transition: easy-out;
+}
+#clear{
+  background: #A92C26;
+  margin-bottom: 15px;
+}
+#clear:hover{
+  background: #7A1717;
+  transition: easy-out;
+}
+
