@@ -1,0 +1,81 @@
+.all {
+  background: #2B372E;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.wrapper {
+  margin: 200px auto;
+  position: relative;
+  background: #437059;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 350px;
+  border-radius: 15px;
+}
+.buttons{
+  position: relative;
+  left: 5px;
+  top: 5px;
+  border: none;
+  outline: none;
+  background: #D6E0C1;
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+.buttons:hover{
+  background: #B3BDA0;
+}
+.screen{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 270px;
+  height: 40px;
+  background: #ffffff;
+  position: relative;
+  left: 5px;
+  top: 5px;
+  border: none;
+  outline: none;
+  font-size: 24px;
+}
+.operator{
+  background: #454B6B;
+  position: relative;
+  left: 5px;
+  top: 5px;
+  border: none;
+  outline: none;
+  border: 0;
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+.operator:hover{
+  background: #1B1D31;
+}
+.clear{
+  background: #A92C26;
+  position: relative;
+  left: 5px;
+  top: 5px;
+  border: none;
+  outline: none;
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+.clear:hover{
+  background: #7A1717;
+}
+
